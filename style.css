@@ -1,0 +1,14 @@
+/* CSS für Styling */
+body {
+    background-color: #f0f0f0; /* Hintergrundfarbe der Seite */
+    display: flex;
+    justify-content: center; /* Zentriert den Inhalt horizontal */
+    align-items: center; /* Zentriert den Inhalt vertikal */
+    height: 100vh; /* Setzt die Höhe der Seite auf 100% des Viewports */
+    margin: 0; /* Entfernt den Standardaußenabstand */
+    font-family: Arial, sans-serif; /* Schriftart */
+}
+h1 {
+    color: #333; /* Farbe des Textes */
+    font-size: 40px; /* Schriftgröße */
+}
